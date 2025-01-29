@@ -1,0 +1,20 @@
+*** Unit Test Error Report ***
+
+(node:83704) TimeoutNegativeWarning: -5 is a negative number.
+Timeout duration was set to 1.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ PASS  .dist/3-UsingAPIs/Week1/unit-tests/ex5-pokerDiceChain.test.js
+  api-wk1-ex5-pokerDiceChain
+    ✅ should exist and be executable (2 ms)
+    ✅ should have all TODO comments removed (1 ms)
+    ✅ `rollDice` should not contain unneeded console.log calls (1 ms)
+    ✅ should resolve when all dice settle successfully (16 ms)
+    ✅ should reject with an Error when a die rolls off the table (28 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       5 passed, 5 total
+Snapshots:   0 total
+Time:        0.609 s
+Ran all test suites matching /\/Users\/g\/Desktop\/1\/Assignments-cohort51\/.dist\/3-UsingAPIs\/Week1\/unit-tests\/ex5-pokerDiceChain.test.js/i.
+No linting errors detected.
+No spelling errors detected.
