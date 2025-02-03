@@ -11,3 +11,4 @@
 | ex3-rollAnAce     |   7    |   -    |   ✕    |
 | ex4-diceRace      |   7    |   -    |   ✕    |
 | ex5-vscDebug      |   -    |   -    |   ✕    |
+| ex6-browserDebug  |   -    |   -    |   ✕    |
