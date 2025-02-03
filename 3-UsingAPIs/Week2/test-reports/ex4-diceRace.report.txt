@@ -1,0 +1,22 @@
+*** Unit Test Error Report ***
+
+(node:26951) TimeoutNegativeWarning: -5 is a negative number.
+Timeout duration was set to 1.
+(Use `node --trace-warnings ...` to show where the warning was created)
+ PASS  .dist/3-UsingAPIs/Week2/unit-tests/ex4-diceRace.test.js
+  api-wk2-ex4-diceRace
+    ✅ should exist and be executable (1 ms)
+    ✅ should have all TODO comments removed
+    ✅ `rollDice` should not contain unneeded console.log calls
+    ✅ should use `dice.map()`
+    ✅ should use `Promise.race()`
+    ✅ should resolve as soon as a die settles successfully (4 ms)
+    ✅ should reject with an Error as soon as a die rolls off the table (28 ms)
+
+Test Suites: 1 passed, 1 total
+Tests:       7 passed, 7 total
+Snapshots:   0 total
+Time:        0.349 s, estimated 1 s
+Ran all test suites matching /\/Users\/g\/Desktop\/Assignments-cohort51\/.dist\/3-UsingAPIs\/Week2\/unit-tests\/ex4-diceRace.test.js/i.
+No linting errors detected.
+No spelling errors detected.
